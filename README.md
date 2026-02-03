@@ -1,5 +1,7 @@
 # 📊 Expense Tracker
 
+https://roadmap.sh/projects/expense-tracker
+
 A command-line expense manager built with Java that helps you track your spending efficiently.
 
 ## 🚀 Features
@@ -22,7 +24,7 @@ A command-line expense manager built with Java that helps you track your spendin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/Nattyeah/expense-tracker/tree/main
    cd expense-tracker\src
    ```
 
