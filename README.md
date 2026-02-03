@@ -1,7 +1,5 @@
 # 📊 Expense Tracker
 
-https://roadmap.sh/projects/expense-tracker
-
 A command-line expense manager built with Java that helps you track your spending efficiently.
 
 ## 🚀 Features
