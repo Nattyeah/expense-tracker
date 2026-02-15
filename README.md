@@ -22,7 +22,7 @@ A command-line expense manager built with Java that helps you track your spendin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nattyeah/expense-tracker/tree/main
+   git clone https://github.com/Nattyeah/expense-tracker
    cd expense-tracker\src
    ```
 
